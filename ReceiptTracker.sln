@@ -5,8 +5,6 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTracker_Backend", "ReceiptTracker_Backend\ReceiptTracker_Backend.csproj", "{2575C94C-656D-45F9-9FF6-B570D59BD088}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceiptTracker_App", "ReceiptTracker_App\ReceiptTracker_App.csproj", "{9B8862D4-3474-41B4-8206-1B3FAD9631F1}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{2575C94C-656D-45F9-9FF6-B570D59BD088}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2575C94C-656D-45F9-9FF6-B570D59BD088}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2575C94C-656D-45F9-9FF6-B570D59BD088}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9B8862D4-3474-41B4-8206-1B3FAD9631F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9B8862D4-3474-41B4-8206-1B3FAD9631F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9B8862D4-3474-41B4-8206-1B3FAD9631F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9B8862D4-3474-41B4-8206-1B3FAD9631F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
